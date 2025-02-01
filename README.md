@@ -82,20 +82,6 @@ This project leverages **Logistic Regression** and **Neural Networks** to classi
 
 ---
 
-## 📈 Visualizations
-
-- **Feature Correlations**:
-  Heatmap highlighting relationships between features.
-  
-  ![Correlation Matrix](correlation_matrix.png)
-  
-- **Distribution Plots**:
-  Histograms to observe feature distributions.
-- **Training vs Validation Accuracy**:
-  Line graphs showing improvement in model performance during training.
-
----
-
 ## 📂 Project Structure
 
 ```
