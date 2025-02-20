@@ -53,7 +53,7 @@ This project also features a Streamlit-based web app, where users can input valu
 
 ![Interface1](Steamlit_interface.png)
 
-![Interface2](Steamlit_webapp.png)
+![Interface2](Streamlit_webapp.png)
 
 
 ---
