@@ -51,6 +51,11 @@ This project also features a Streamlit-based web app, where users can input valu
   - Predict whether a patient’s condition is benign or malignant based on input features.  
   - Streamlit app allows users to easily interact with the model and get predictions.
 
+![Interface1](Streamlit_interface/your_image.png)
+
+![Interface2](Streamlit_webapp/your_image.png)
+
+
 ---
 
 ## 🤝 Contributions
