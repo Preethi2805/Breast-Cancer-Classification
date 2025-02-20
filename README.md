@@ -34,7 +34,13 @@ This project also features a Streamlit-based web app, where users can input valu
 - **breast_cancer_model.h5**  
 - **breast_cancer_predictive.py**  
 - **scaler.pkl**  
-- **webapp_streamlit.py**  
+- **webapp_streamlit.py**
+
+### Streamlit Web App
+
+Here is a screenshot of the Streamlit web app where users can interact with the models:
+
+![Streamlit App]([images/streamlit_app_screenshot.png)](https://github.com/Preethi2805/Breast-Cancer-Classification/blob/main/Steamlit_interface)
 
 📊 **Project Workflow**  
 - **Data Loading:** Data collected from the Scikit-learn Breast Cancer dataset.  
