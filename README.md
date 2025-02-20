@@ -27,72 +27,28 @@ This project leverages **Logistic Regression** and **Neural Networks** to classi
     - Test Accuracy: `95.6%`
   - Neural network performance improves with each epoch, reducing loss and increasing accuracy.
 
----
+**Web Application (Streamlit):**  
+This project also features a Streamlit-based web app, where users can input values to predict whether a tumor is benign or malignant. The web app provides an easy interface to interact with the model.
 
-## 🚀 Getting Started
+**Files Added:**
+- **breast_cancer_model.h5**  
+- **breast_cancer_predictive.py**  
+- **scaler.pkl**  
+- **webapp_streamlit.py**  
 
-### Installation
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/username/breast-cancer-classification.git
-   ```
-2. Navigate to the project directory:
-   ```bash
-   cd breast-cancer-classification
-   ```
-3. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-### Usage
-
-1. **Run Logistic Regression Classification**:
-   ```bash
-   python logistic_regression_model.py
-   ```
-2. **Run Neural Network Classification**:
-   ```bash
-   python neural_network_model.py
-   ```
-3. **Make Predictions**:
-   Modify the `input_data` in the script to provide your test case. Example:
-   ```python
-   input_data = (19.81, 22.15, 130, 1260, 0.09831, 0.1027, 0.1479, ...)
-   ```
-
----
-
-## 📊 Project Workflow
-
-1. **Data Loading**:
-   - Data collected from the Scikit-learn Breast Cancer dataset.
-   - Includes 30 features describing tumor characteristics.
-2. **Exploratory Data Analysis**:
-   - Summary statistics, feature distributions, and correlation analysis.
-3. **Preprocessing**:
-   - Standardization for neural network training.
-   - Outlier detection and handling.
-4. **Model Training**:
-   - Logistic Regression for baseline performance.
-   - Neural Networks for advanced performance.
-5. **Prediction System**:
-   - Predict whether a patient’s condition is benign or malignant based on input features.
-
----
-
-## 📂 Project Structure
-
-```
-breast-cancer-classification/
-├── logistic_regression_model.py   # Logistic Regression implementation
-├── neural_network_model.py        # Neural Network implementation
-├── data_visualization.py          # Data visualization scripts
-├── breast_cancer.csv              # Dataset
-├── requirements.txt               # Dependencies
-├── README.md                      # Project documentation
-```
+📊 **Project Workflow**  
+- **Data Loading:** Data collected from the Scikit-learn Breast Cancer dataset.  
+  - Includes 30 features describing tumor characteristics.  
+- **Exploratory Data Analysis:** Summary statistics, feature distributions, and correlation analysis.  
+- **Preprocessing:**  
+  - Standardization for neural network training.  
+  - Outlier detection and handling.  
+- **Model Training:**  
+  - Logistic Regression for baseline performance.  
+  - Neural Networks for advanced performance.  
+- **Prediction System:**  
+  - Predict whether a patient’s condition is benign or malignant based on input features.  
+  - Streamlit app allows users to easily interact with the model and get predictions.
 
 ---
 
