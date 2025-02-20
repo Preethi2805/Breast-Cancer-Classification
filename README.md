@@ -26,6 +26,8 @@ This project leverages **Logistic Regression** and **Neural Networks** to classi
     - Training Accuracy: `96.6%`
     - Test Accuracy: `95.6%`
   - Neural network performance improves with each epoch, reducing loss and increasing accuracy.
+ 
+  ![Interface1](Breast_Cancer_accuracy.png)
 
 **Web Application (Streamlit):**  
 This project also features a Streamlit-based web app, where users can input values to predict whether a tumor is benign or malignant. The web app provides an easy interface to interact with the model.
@@ -50,8 +52,6 @@ This project also features a Streamlit-based web app, where users can input valu
 - **Prediction System:**  
   - Predict whether a patient’s condition is benign or malignant based on input features.  
   - Streamlit app allows users to easily interact with the model and get predictions.
-
-![Interface1](Steamlit_interface.png)
 
 ![Interface2](Streamlit_webapp.png)
 
