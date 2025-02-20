@@ -1,9 +1,5 @@
 # 🩺 Breast Cancer Classification
 
-This project leverages **Logistic Regression** and **Neural Networks** to classify breast cancer cases as either malignant or benign using the **Breast Cancer Dataset** from the Scikit-learn library. It demonstrates the power of machine learning in healthcare to assist in early diagnosis and decision-making.
-
----
-
 ## 📋 Features
 
 - **Dataset**: Breast Cancer Dataset from Scikit-learn with 569 samples and 30 features.
