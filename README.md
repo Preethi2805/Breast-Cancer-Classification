@@ -28,13 +28,6 @@
 **Web Application (Streamlit):**  
 This project also features a Streamlit-based web app, where users can input values to predict whether a tumor is benign or malignant. The web app provides an easy interface to interact with the model.
 
-**Files Added:**
-- **breast_cancer_model.h5**  
-- **breast_cancer_predictive.py**  
-- **scaler.pkl**  
-- **webapp_streamlit.py**
-
-
 📊 **Project Workflow**  
 - **Data Loading:** Data collected from the Scikit-learn Breast Cancer dataset.  
   - Includes 30 features describing tumor characteristics.  
@@ -50,7 +43,6 @@ This project also features a Streamlit-based web app, where users can input valu
   - Streamlit app allows users to easily interact with the model and get predictions.
 
 ![Interface2](Streamlit_webapp.png)
-
 
 ---
 
